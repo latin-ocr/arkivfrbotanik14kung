@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanik14kung_0673.png"; bbox 0 0 2024 3245; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 662 1771 1151 1953">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 662 1771 1151 1953">
+     <span class='ocr_line' id='line_1_1' title="bbox 685 1771 1151 1875; baseline 0 -31"><span class='ocrx_word' id='word_1_1' title='bbox 685 1771 981 1875; x_wconf 60' lang='lat' dir='ltr'>RAND</span> <span class='ocrx_word' id='word_1_2' title='bbox 1012 1786 1151 1846; x_wconf 43' lang='lat'><strong>414..</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 662 1883 1031 1953; baseline -0.005 -23"><span class='ocrx_word' id='word_1_3' title='bbox 662 1911 664 1913; x_wconf 58' lang='lat'>&gt;</span> <span class='ocrx_word' id='word_1_4' title='bbox 692 1931 693 1934; x_wconf 68' lang='grc'>,</span> <span class='ocrx_word' id='word_1_5' title='bbox 772 1949 774 1953; x_wconf 14' lang='lat' dir='ltr'>y</span> <span class='ocrx_word' id='word_1_6' title='bbox 796 1883 1031 1931; x_wconf 51' lang='lat' dir='ltr'><strong>‘fimas</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2024 3245">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 2024 3245">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 2024 3245; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 2024 3245; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
